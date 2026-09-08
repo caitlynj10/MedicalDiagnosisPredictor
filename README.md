@@ -1,1 +1,1 @@
-# MedicalDiagnosisPrediction
+# Medical Diagnosis Prediction Algorithm 
